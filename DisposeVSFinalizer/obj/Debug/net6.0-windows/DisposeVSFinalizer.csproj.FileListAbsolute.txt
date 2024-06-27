@@ -1,0 +1,17 @@
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\DisposeVSFinalizer\bin\Debug\net6.0-windows\DisposeVSFinalizer.exe
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\DisposeVSFinalizer\bin\Debug\net6.0-windows\DisposeVSFinalizer.deps.json
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\DisposeVSFinalizer\bin\Debug\net6.0-windows\DisposeVSFinalizer.runtimeconfig.json
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\DisposeVSFinalizer\bin\Debug\net6.0-windows\DisposeVSFinalizer.dll
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\DisposeVSFinalizer\bin\Debug\net6.0-windows\DisposeVSFinalizer.pdb
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\DisposeVSFinalizer\obj\Debug\net6.0-windows\DisposeVSFinalizer.csproj.AssemblyReference.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\DisposeVSFinalizer\obj\Debug\net6.0-windows\DisposeVSFinalizer.Form1.resources
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\DisposeVSFinalizer\obj\Debug\net6.0-windows\DisposeVSFinalizer.csproj.GenerateResource.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\DisposeVSFinalizer\obj\Debug\net6.0-windows\DisposeVSFinalizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\DisposeVSFinalizer\obj\Debug\net6.0-windows\DisposeVSFinalizer.AssemblyInfoInputs.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\DisposeVSFinalizer\obj\Debug\net6.0-windows\DisposeVSFinalizer.AssemblyInfo.cs
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\DisposeVSFinalizer\obj\Debug\net6.0-windows\DisposeVSFinalizer.csproj.CoreCompileInputs.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\DisposeVSFinalizer\obj\Debug\net6.0-windows\DisposeVSFinalizer.dll
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\DisposeVSFinalizer\obj\Debug\net6.0-windows\refint\DisposeVSFinalizer.dll
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\DisposeVSFinalizer\obj\Debug\net6.0-windows\DisposeVSFinalizer.pdb
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\DisposeVSFinalizer\obj\Debug\net6.0-windows\DisposeVSFinalizer.genruntimeconfig.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\DisposeVSFinalizer\obj\Debug\net6.0-windows\ref\DisposeVSFinalizer.dll
